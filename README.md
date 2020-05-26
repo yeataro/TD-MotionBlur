@@ -16,6 +16,9 @@ Use the new function `Custom Attributes instances` after TD build 2020.20000 to 
 - Other kinds of MotionBlur implementation.
 
 ## Author
+
 Yea Chen (yeataro)
+
 https://github.com/yeataro
+
 yeataro@gmail.com
