@@ -1,7 +1,7 @@
 # TD-MotionBlur
-![Print Screen](img/PrtSc.png)
+An Easy-to-use Motion Blur component in TouchDesigner, work in progress.
 
-Easy-to-use Motion Blur component in TouchDesigner, work in progress.
+![Print Screen](img/PrtSc.png)
 
 The implementation of this component is based on this [article](http://john-chapman-graphics.blogspot.com/2013/01/per-object-motion-blur.html).
 
